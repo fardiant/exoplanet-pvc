@@ -6,7 +6,7 @@ metadata:
     app: exoplanets
   name: exoplanets
 spec:
-  host: "exoplanets-exoplanet.apps.ocp4.example.com"
+  host: ""
   port:
     targetPort: web
   tls:
