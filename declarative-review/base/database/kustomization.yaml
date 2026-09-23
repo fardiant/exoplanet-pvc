@@ -5,6 +5,6 @@ labels:
     pairs:
       app: database
 resources:
-  - deployment.yaml
+  - deployment-pvc.yaml
   - service.yaml
   - configmap.yaml
